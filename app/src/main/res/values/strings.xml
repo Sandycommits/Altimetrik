@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iTunes</string>
+    <string name="no_network">Please connect to internet and try again</string>
+    <string name="something_went_wrong">Something went wrong with API response.</string>
+    <string name="search_album">Search album...</string>
+    <string name="sort_by">Sort By</string>
+    <string name="no_matching_results">No matching results found.</string>
+</resources>
